@@ -59,12 +59,14 @@ body {
   margin: 0 0 24px;
   font-size: 80px;
   line-height: 96px;
+  text-align: center;
 }
 
 .hero-image p {
   margin: 0;
   font-size: 32px;
   line-height: 48px;
+  text-align: center;
 }
 
 .intro {
@@ -89,6 +91,7 @@ body {
   font-size: 28px;
   line-height: 40px;
   font-weight: 500;
+  
 }
 
 .intro p {
@@ -133,6 +136,7 @@ body {
 
 .portfolio {
   margin: 0 0 120px;
+  text-align: center;
 }
 
 .projects {
